@@ -4,6 +4,7 @@
 
 def list_sum(list):
     '''Funktsioon võtab argumendiks numbrite listi ja tagastab elementide summa numbrina'''
+    print('Reimo oli siin! ')
     return sum(list)
 
 #Ülesanne 2
